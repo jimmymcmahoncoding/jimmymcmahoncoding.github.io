@@ -81,7 +81,7 @@ An alternative method to acheive this can be seen on the following [YouTube vide
 
 
 ### PM2 (Mac OSX / Linux)
-A similar process can be followed for Mac OSX / Linux based Operating Systems, using PM2 with the cron time scheduling option.  For more information on how to do this, please see the following link :- https://pm2.keymetrics.io/docs/usage/quick-start/.
+A similar process can be followed for Mac OSX / Linux based Operating Systems, using PM2 with the cron time scheduling option.  For more information on how to do this, visit [here](https://pm2.keymetrics.io/docs/usage/quick-start/).
 
 This is the process that I personally use, so I can help you set this up if you need assistance.
 
