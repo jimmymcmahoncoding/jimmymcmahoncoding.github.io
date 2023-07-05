@@ -102,8 +102,6 @@ You are entirely responsible for your wallet private key and the security of you
 
 If you need any assistance with this application, please contact me on Telegram @ https://t.me/MadgeMcMahon.
 
-This is a test message.
-
 
 
 
