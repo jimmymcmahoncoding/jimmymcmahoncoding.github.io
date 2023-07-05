@@ -77,7 +77,7 @@ The application should ideally be used in conjunction with Windows Task Schedule
 
 The application will then run automatically at the schedule that you configured in step 5.
 
-An alternative method to acheive this can be seen on the following YouTube video :- https://www.youtube.com/watch?v=DVUlkU2AxgQ.
+An alternative method to acheive this can be seen on the following [YouTube video](https://www.youtube.com/watch?v=DVUlkU2AxgQ).
 
 
 ### PM2 (Mac OSX / Linux)
@@ -100,7 +100,7 @@ You are entirely responsible for your wallet private key and the security of you
 
 ## Support
 
-If you need any assistance with this application, please contact me on Telegram @ [https://t.me/MadgeMcMahon]
+If you need any assistance with this application, please contact me on [Telegram](https://t.me/MadgeMcMahon).
 
 
 
